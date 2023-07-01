@@ -6,6 +6,9 @@ Se dau clasele:
 
 -Casa (int suprafataCurte) : Locuinta
 
+
+
+
 La clasa Locuinta se va adauga metoda virtuala pura CalculChirie (X,Y) cu X = valoare standard
 
 chirie/mp(intreg), Y=1 daca se ia in considerare discountul si 0 daca nu se ia in considerare.
